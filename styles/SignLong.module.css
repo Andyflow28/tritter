@@ -1,0 +1,23 @@
+.Paper {
+    padding: 20px;
+    height: 70vh;
+    width: 25vw;
+    margin: 50px auto; 
+}
+
+.Avatar {
+    color: #F1ECE7;
+    background-color: #114358;
+}
+
+.input {
+    margin-top: 1rem;
+}
+
+.sumit {
+    background-color: #F2AA1F;
+}
+
+.sumit:hover {
+    background-color: #114358;
+}

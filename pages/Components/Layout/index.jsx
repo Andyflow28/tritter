@@ -13,7 +13,7 @@ const Layout = ({children}) => {
     />
   </Head>
 
-  <NavBar></NavBar>
+      <NavBar></NavBar>
 
   <main className={styles.container}>
     {children}

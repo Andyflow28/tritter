@@ -55,3 +55,10 @@
         fresh: "#4ABDAC",
         sunshine: "#F7B733",
         clean: "#ffff"
+
+
+
+        mas colores 
+
+
+        
