@@ -1,0 +1,29 @@
+/*! NavBar Styles */
+
+.btn {
+    background-color: #F2AA1F;
+}
+
+.btn :hover {
+    background-color: #F1ECE7;
+}
+
+.bar {
+    background-color: #114358;
+}
+
+.btnP {
+    font-size: 5rem;
+}
+
+.res {
+    font-size: 1.5rem;
+    margin-left: 10px;
+}
+
+/** DrawComp Styles **/
+
+.menu {
+    margin-left: auto;
+}
+
